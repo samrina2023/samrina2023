@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning Object Oriented Programming in C++
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/mrsohelcse/)
+- 💬 Ask me about anything [here]
 - ⚡ Fun fact: I often play video games.
 
 **Languages and Tools:**
