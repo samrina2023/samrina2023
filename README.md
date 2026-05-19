@@ -19,10 +19,10 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning Object Oriented Programming in C++
+- 🌱  I’m currently learning Python, AI, ML, and system design
 - 🤔 I’m interested in Competitive Programming.
-- 💬 Ask me about anything [here]
-- ⚡ Fun fact: I often play video games.
+- 📫 Reach me at fatimasamrin2002@gmail.com
+- ⚡ Fun fact:  I started coding in 2023, and it's been the most exciting journey ever!
 
 **Languages and Tools:**
 
